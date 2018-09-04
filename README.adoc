@@ -1,0 +1,11 @@
+darcula-config
+==============
+
+This project tries to specify every part of a darcula color scheme to be
+used in my Raspbian environment with:
+
+* wm2
+* vim
+* LXTerminal
+
+
